@@ -10485,6 +10485,7 @@ Yury Smyslov
 - [Ali Karani](https://github.com/alikarani)
 - [Juan Luis Cano Rodríguez](https://github.com/astrojuanlu)
 - [Jeongjun Aiden kim](https://github.com/Two-Jay)
+- Juan Luis
 - [RaaziaT](https://github.com/RaaziaT)
 - [Henry Korir](https://github.com/henrykorir/)
 - [JinSeop Shin](https://github.com/Jin-seop)
